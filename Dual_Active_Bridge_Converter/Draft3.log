@@ -1,0 +1,6 @@
+Circuit: * C:\Users\khduh\Documents\LTspiceXVII\file\Dual_Active_Bridge_Converter\Draft3.asc
+
+Fatal Error: Voltage source V8 is in a loop involving inductor L3 and other
+voltage sources and/or inductors making an over-defined circuit matrix.
+
+You will need to correct the circuit or add some series resistance.
