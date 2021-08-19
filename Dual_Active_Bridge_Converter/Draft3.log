@@ -1,6 +1,96 @@
 Circuit: * C:\Users\khduh\Documents\LTspiceXVII\file\Dual_Active_Bridge_Converter\Draft3.asc
 
-Fatal Error: Voltage source V8 is in a loop involving inductor L3 and other
-voltage sources and/or inductors making an over-defined circuit matrix.
+Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 3.5e-005 to 3.50011e-005
+Heightened Def Con from 0.00058 to 0.000580001
+Heightened Def Con from 0.00112 to 0.00112001
+Heightened Def Con from 0.00126 to 0.00126001
+Heightened Def Con from 0.00129 to 0.00129001
+Heightened Def Con from 0.0013 to 0.00130001
+Heightened Def Con from 0.00131 to 0.00131001
+Heightened Def Con from 0.00134 to 0.00134001
+Heightened Def Con from 0.00135 to 0.00135001
+Heightened Def Con from 0.00136 to 0.00136001
+Heightened Def Con from 0.00137 to 0.00137001
+Heightened Def Con from 0.00137997 to 0.00137998
+Heightened Def Con from 0.00139799 to 0.001398
+Heightened Def Con from 0.00141 to 0.00141001
+Heightened Def Con from 0.00142 to 0.00142001
+Heightened Def Con from 0.00144 to 0.00144
+Heightened Def Con from 0.00145 to 0.00145
+Heightened Def Con from 0.00147 to 0.00147001
+Heightened Def Con from 0.00155 to 0.00155001
+Heightened Def Con from 0.00156 to 0.00156001
+Heightened Def Con from 0.00157 to 0.00157001
+Heightened Def Con from 0.00163976 to 0.00163976
+Heightened Def Con from 0.00194 to 0.00194001
+Heightened Def Con from 0.00203 to 0.00203001
+Heightened Def Con from 0.0023 to 0.00230001
+Heightened Def Con from 0.00353502 to 0.00353503
+Heightened Def Con from 0.00377 to 0.00377001
+Heightened Def Con from 0.00417502 to 0.00417503
+Heightened Def Con from 0.00419 to 0.00419001
+Heightened Def Con from 0.00467 to 0.00467
+Heightened Def Con from 0.00509 to 0.00509001
+Heightened Def Con from 0.00517 to 0.00517001
+Heightened Def Con from 0.00523 to 0.00523001
+Heightened Def Con from 0.00538 to 0.00538001
+Heightened Def Con from 0.00547 to 0.00547001
+Heightened Def Con from 0.00554 to 0.00554001
+Heightened Def Con from 0.00585 to 0.00585001
+Heightened Def Con from 0.00619 to 0.00619001
+Heightened Def Con from 0.00631 to 0.00631001
+Heightened Def Con from 0.00671 to 0.00671001
+Heightened Def Con from 0.00673 to 0.00673001
+Heightened Def Con from 0.00691 to 0.00691001
+Heightened Def Con from 0.00691998 to 0.00691999
+Heightened Def Con from 0.00701 to 0.00701001
+Heightened Def Con from 0.00707 to 0.00707001
+Heightened Def Con from 0.00711 to 0.00711001
+Heightened Def Con from 0.00717 to 0.00717001
+Heightened Def Con from 0.00719 to 0.00719001
+Heightened Def Con from 0.00727 to 0.00727001
+Heightened Def Con from 0.0074 to 0.00740001
+Heightened Def Con from 0.00741 to 0.00741
+Heightened Def Con from 0.00744 to 0.00744001
+Heightened Def Con from 0.00747 to 0.00747001
+Heightened Def Con from 0.0076 to 0.00760001
+Heightened Def Con from 0.00777 to 0.00777001
+Heightened Def Con from 0.00797 to 0.00797
+Heightened Def Con from 0.00806 to 0.00806001
+Heightened Def Con from 0.0081 to 0.00810001
+Heightened Def Con from 0.00812 to 0.00812001
+Heightened Def Con from 0.00824 to 0.00824001
+Heightened Def Con from 0.00847 to 0.00847001
+Heightened Def Con from 0.00855 to 0.00855001
+Heightened Def Con from 0.00857 to 0.00857001
+Heightened Def Con from 0.00859 to 0.00859001
+Heightened Def Con from 0.00874 to 0.00874001
+Heightened Def Con from 0.00875 to 0.00875001
+Heightened Def Con from 0.00885 to 0.00885001
+Heightened Def Con from 0.00887 to 0.00887001
+Heightened Def Con from 0.00893 to 0.00893001
+Heightened Def Con from 0.00901 to 0.00901001
+Heightened Def Con from 0.00945 to 0.00945001
+Heightened Def Con from 0.00947 to 0.00947001
+Heightened Def Con from 0.00971 to 0.00971001
+Heightened Def Con from 0.00989 to 0.00989001
+Heightened Def Con from 0.00995 to 0.00995001
 
-You will need to correct the circuit or add some series resistance.
+Date: Thu Aug 19 15:17:20 2021
+Total elapsed time: 15.501 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1659605
+traniter = 1659605
+tranpoints = 460592
+accept = 332801
+rejected = 127866
+matrix size = 65
+fillins = 56
+solver = Normal
+Matrix Compiler1: 7.69 KB object code size  1.0/0.6/[0.3]
+Matrix Compiler2: 6.30 KB object code size  0.4/0.6/[0.2]
+
